@@ -8,6 +8,10 @@ class App extends Component {
       <div className="App">
         <h1>TimPrice</h1>
         <p>ceci est un test.</p>
+        <p>ceci est un test.</p>
+        <p>ceci est un test.</p>
+        <p>ceci est un test.</p>
+        <p>ceci est un test.</p>
       </div>
     );
   }
